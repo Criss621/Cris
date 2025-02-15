@@ -49,8 +49,19 @@ h1 {
     background-color: #FF0000;
 }
 
+.tiktok {
+    background-color: #000000;
+}
+
+.spotify {
+    background-color: #1DB954; /* Spotify green */
+}
+
+.snapchat {
+    background-color: #FFFC00; /* Snapchat yellow */
+    color: #000; /* Black text for better contrast */
+}
+
 .social-links a:hover {
     opacity: 0.9;
 }
-
-
